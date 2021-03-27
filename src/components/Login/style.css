@@ -1,0 +1,9 @@
+.btn {
+    margin: -10px 10px 20px 0;
+    width: 70px;
+}
+
+.tip {
+    font-size: 10px;
+    color: rgba(190, 25, 25, 0.7);
+}
